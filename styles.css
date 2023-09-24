@@ -1,1 +1,20 @@
-/*  your css code here. If applicable */
+.navigation-bar{
+	background:#D7E8D4;
+	padding:1em;
+}
+.head{
+	background:yellowgreen;
+	padding:1em;
+}
+.foot{
+	background:yellowgreen;
+	padding:1em;
+}
+.article{
+	min-height:60vh;
+	padding:1em;
+		}
+.aside{
+	padding:1em;
+	background:#f5f5dc;
+}
