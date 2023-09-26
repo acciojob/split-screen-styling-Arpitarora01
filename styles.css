@@ -32,4 +32,6 @@
 	padding:1em;
 	background:#f5f5dc;
 	width:25vw;
+	display:flex;
+	flex:1 1 0%;
 }
